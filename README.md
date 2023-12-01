@@ -15,4 +15,5 @@ Ensure that you have [Node.js](https://nodejs.org/en) installed on your computer
 To run this project, follow these steps:
 
 ```npm i```
+
 ```npm run start```
