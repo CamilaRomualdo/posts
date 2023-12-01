@@ -1,6 +1,6 @@
 # Posts
 
-Simple application with API consumption in React using version 16 syntax.
+Simple application with API consumption in React using version 16 syntax. [Check it out here](https://sensational-profiterole-2d4032.netlify.app/)!
 
 ## Learning Creadits
 
